@@ -1,5 +1,5 @@
-pHtml-ify
-=========
+photemly
+========
 
 Über-portable rich document format using HTML with included CSS and Base64 encoded images.
 
